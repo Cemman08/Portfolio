@@ -138,7 +138,7 @@ function App() {
 
                 <a
                   className="secondary-button"
-                  href="/Charles_Ramos_One_Page_Resume_With_Photo.docx"
+                  href="./File/Ramos_Resume.pdf"
                   download
                 >
                   Download Resume
